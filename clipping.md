@@ -6,7 +6,6 @@ icon: fa-newspaper
 order: 3
 ---
 
-<div id="clipping">
 
 ## 2018 
 
@@ -70,5 +69,3 @@ Los nuevos másteres y doctorados que llegarán en el curso 2015/2016
 http://www.mastermas.com/Reportajes/html/R2450_F24032015_1.html
 
 -->
-
-</div>
