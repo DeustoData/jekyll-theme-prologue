@@ -1,5 +1,5 @@
 ---
-title: Dicen de nosotr@s
+title: Dicen de nosotros
 subtitle: Apariciones de DeustoDatacom en medios
 layout: "page"
 icon: fa-newspaper
