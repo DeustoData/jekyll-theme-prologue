@@ -5,3 +5,12 @@
 
 a:hover { color: #0053ce !important; }
 #nav ul li a.active span:before { color: #0053ce !important; }
+
+#clipping {
+	color: #333;
+	span.meta { 
+		display:block; 
+		color:#888;
+		font-size: .7em;
+	}
+}
