@@ -3,5 +3,5 @@
 ---
 @import "jekyll-theme-prologue";
 
-a:hover { color: #0053ce; }
-#nav ul li a.active span:before { color: #0053ce; }
+a:hover { color: #0053ce !important; }
+#nav ul li a.active span:before { color: #0053ce !important; }
