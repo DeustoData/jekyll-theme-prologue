@@ -2,3 +2,21 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 @import "jekyll-theme-prologue";
+
+a {
+		&:hover {
+			color: #0053ce;
+		}
+	}
+
+	#nav {
+			li {
+					&.active {
+						span:before {
+							color: #0053ce;
+						}
+					}
+				}
+			}
+		}
+	}
