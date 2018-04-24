@@ -35,8 +35,8 @@ subtitle: Comunicación de datos
 description: >- # this means to ignore newlines until "baseurl:"
   Unidad de comunicación de datos del Departamento de Comunicación,
   Facultad de Ciencias Sociales y Humanas, Universidad de Deusto.
-author: Miren Berasategi
-email: miren.berasategi@deusto.es
+# author: Miren Berasategi
+# email: miren.berasategi@deusto.es
 avatar: assets/images/deustodata-logo.png
 
 # You'll want to customize url and baseurl for your own site:
@@ -60,3 +60,14 @@ google_analytics: "UA-116316802-1"
 # The following settings are NECESSARY for the Prologue theme to run:
 remote_theme: chrisbobbe/jekyll-theme-prologue
 collections: [sections]
+
+# Authors
+authors:
+  mgutierrez:
+    name: Miren Gutiérrez
+    email: m.gutierrez@deusto.es
+    twitter: GutierrezMiren
+  mberasategi:
+    name: Miren Berasategi
+    email: miren.berasategi@deusto.es
+    twitter: mberasategi
