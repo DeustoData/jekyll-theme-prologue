@@ -65,9 +65,11 @@ collections: [sections]
 authors:
   mgutierrez:
     name: Miren Gutiérrez
+    display_name: Miren Gutiérrez
     email: m.gutierrez@deusto.es
     twitter: GutierrezMiren
   mberasategi:
     name: Miren Berasategi
+    display_name: Miren Berasategi
     email: miren.berasategi@deusto.es
     twitter: mberasategi
