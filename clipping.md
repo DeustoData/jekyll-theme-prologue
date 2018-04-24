@@ -10,22 +10,19 @@ body-class: "clipping"
 
 ## 2018 
 
-- [<i class="fa fa-newspaper"></i> Fake news, ¿de quién es la responsabilidad?](https://www.eldiario.es/tribunaabierta/Fake-news-responsabilidad_6_760883915.html) <span class="meta"><i class="fa fa-calendar"></i> 14/04/2018. Artículo publicado en eldiario.es por [<i class="fa fa-twitter"></i> Miren Gutiérrez](http://twitter.com/GutierrezMiren)</span>
+- [<i class="fa fa-newspaper"></i> _Fake news_, ¿de quién es la responsabilidad?](https://www.eldiario.es/tribunaabierta/Fake-news-responsabilidad_6_760883915.html) <span class="meta"><i class="fa fa-calendar"></i> 14/04/2018. Artículo publicado en eldiario.es por [<i class="fa fa-twitter"></i> Miren Gutiérrez](http://twitter.com/GutierrezMiren)</span>
+- [Miren Gutierrez presents “Datos para la transformación social” (Madrid, April 12)](https://data-activism.net/2018/04/debate-datos-para-la-transformacion-social/)<span class="meta"><i class="fa fa-calendar"></i> 10/04/2018</span>
 - [<i class="fa fa-headphones"></i> Qué significa nuevo reglamento europeo de protección de datos, en vigor 25 mayo](https://20003.mc.tritondigital.com/SER_SER_EUSKADI_A_VIVIR/media-session/4b865754-e6e1-4a2b-b9f2-03d57c4944fe/2018/3/10/006RD010000000302539.mp3?dist=PRISA_ES_CADENASER_WEB_DOWNLOAD&amp;csegid=22000) <span class="meta"><i class="fa fa-calendar"></i> (fecha)</span>
 - [<i class="fa fa-headphones"></i> Españoles en la mar. Estudio de la presencia de basuras en las playas y riberas españolas](http://www.rtve.es/alacarta/audios/espanoles-en-la-mar/espanoles-mar-estudio-presencia-basuras-playas-riberas-espanolas-24-03-17/3958086/) <span class="meta"><i class="fa fa-calendar"></i> (fecha)</span>
+- [<i class="fa fa-newspaper"></i> Torpes inicios en la persecución de la pesca ilegal mediante &#39;big data&#39;](https://www.eldiario.es/tribunaabierta/Torpes-inicios-persecucion-ilegal-mediante_6_730436971.html)<span class="meta"><i class="fa fa-calendar"></i> 17/01/2018</span>
+
+## 2017
+
+- [Se buscan expertos en big data](https://bbvaopen4u.com/es/actualidad/se-buscan-expertos-en-big-data)<span class="meta"><i class="fa fa-calendar"></i> 27/11/2017</span>
+
+- [Big data, somos datos](http://cadenaser.com/emisora/2016/09/30/radio_bilbao/1475232847_442984.html)<span class="meta"><i class="fa fa-calendar"></i> 30/09/2016</span>
 
 <!-- 
-Se buscan expertos en big data 
-https://bbvaopen4u.com/es/actualidad/se-buscan-expertos-en-big-data
-
-Torpes inicios en la persecución de la pesca ilegal mediante &#39;big data&#39;
-https://www.eldiario.es/tribunaabierta/Torpes-inicios-persecucion-ilegal-mediante_6_730436971.html
-
-Miren Gutierrez presents “Datos para la transformación social” (Madrid, April 12)
-https://data-activism.net/2018/04/debate-datos-para-la-transformacion-social/
-
-Big data, somos datos
-http://cadenaser.com/emisora/2016/09/30/radio_bilbao/1475232847_442984.html
 
 12 toneladas de redes de pesca equivalen a 50.000 pantalones
 http://cadenaser.com/emisora/2017/04/20/radio_bilbao/1492698163_397613.html
