@@ -19,27 +19,19 @@ body-class: "clipping"
 ## 2017
 
 - [Se buscan expertos en big data](https://bbvaopen4u.com/es/actualidad/se-buscan-expertos-en-big-data)<span class="meta"><i class="fa fa-calendar"></i> 27/11/2017</span>
+- [<i class="fa fa-newspaper"></i> Si tienes información y datos alrededor, no trabajarlos es un error](http://www.noticiasdegipuzkoa.com/sociedad/deusto/si-tienes-informacion-y-datos-alrededor-no-trabajarlos-es-un-error)<span class="meta"><i class="fa fa-calendar"></i> 16/09/2017</span>
+- [<i class="fa fa-newspaper"></i> Los invernaderos plastifican el Mediterráneo](http://www.laverdad.es/nuestra-tierra/medio-ambiente/201705/23/invernaderos-plastifican-mediterraneo-20170523013045-v.html)<span class="meta"><i class="fa fa-calendar"></i> 23/05/2017</span>
+- [<i class="fa fa-headphones"></i> 12 toneladas de redes de pesca equivalen a 50.000 pantalones](http://cadenaser.com/emisora/2017/04/20/radio_bilbao/1492698163_397613.html)<span class="meta"><i class="fa fa-calendar"></i> 20/04/2017</span> 
 
 ## 2016
 
-- [Big data, somos datos](http://cadenaser.com/emisora/2016/09/30/radio_bilbao/1475232847_442984.html)<span class="meta"><i class="fa fa-calendar"></i> 30/09/2016</span>
+- [<i class="fa fa-headphones"></i> Big data, somos datos](http://cadenaser.com/emisora/2016/09/30/radio_bilbao/1475232847_442984.html)<span class="meta"><i class="fa fa-calendar"></i> 30/09/2016</span>
+- [<i class="fa fa-newspaper"></i> “El futuro son los datos y ya están aquí; en otros países son casi el pan de cada día”](http://www.noticiasdegipuzkoa.eus/sociedad/deusto/el-futuro-son-los-datos-y-ya-estan-aqui-en-otros-paises-son-casi-el-pan-de-cada-dia)<span class="meta"><i class="fa fa-calendar"></i> 18/09/2016</span>
 
 <!-- 
 
-12 toneladas de redes de pesca equivalen a 50.000 pantalones
-http://cadenaser.com/emisora/2017/04/20/radio_bilbao/1492698163_397613.html
-
-Los invernaderos plastifican el Mediterráneo 
-http://www.laverdad.es/nuestra-tierra/medio-ambiente/201705/23/invernaderos-plastifican-mediterraneo-20170523013045-v.html
-
-Si tienes información y datos alrededor, no trabajarlos es un error
-http://www.noticiasdegipuzkoa.com/sociedad/deusto/si-tienes-informacion-y-datos-alrededor-no-trabajarlos-es-un-error
-
 Búsqueda de nivel de servicio
 http://www.imfarmacias.es/uploads/2017/09/busqueda_nivel_servicio_13336_20170908120545.pdf
-
-“El futuro son los datos y ya están aquí; en otros países son casi el pan de cada día”
-http://www.noticiasdegipuzkoa.eus/sociedad/deusto/el-futuro-son-los-datos-y-ya-estan-aqui-en-otros-paises-son-casi-el-pan-de-cada-dia
 
 Aplicaciones del análisis y la comunicación de datos
 http://play.cadenaser.com/audio/006RD010000000235014/
