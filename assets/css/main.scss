@@ -16,3 +16,15 @@ a:hover { color: #0053ce !important; }
 }
 
 .fa, .far, .fas { font-family: Font Awesome\ 5 Free, FontAwesome; }
+
+input[type="button"], 
+input[type="submit"], 
+input[type="reset"], 
+button, 
+.button { 
+	background-color: #0053ce !important;
+
+	&:hover {
+			background-color: #FFF !important;
+		}
+	 } 
