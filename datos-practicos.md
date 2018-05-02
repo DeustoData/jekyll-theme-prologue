@@ -11,9 +11,11 @@ Acaba de abrirse el plazo de solicitudes​ para el programa "Análisis, investi
 
 El Programa **comienza e​l 5 de​ octubre y termina e​l 21 de​ diciembre** (tres meses de duración), en régimen de viernes tarde (de 16 a 20) y sábado mañana (de 10 a 14).​ Durante la semana se hace seguimiento de personas y proyectos a través de nuestra plataforma de e-learning. Nos comprometemos a responder a cualquier duda en menos de 24 horas.​
 
+### Ponemos en marcha un proyecto de tu organización o personal en lo referente a todas sus dimensiones: legal, análisis e investigación, y comunicación. {: style="text-align:center;"}
 
-​<h3 style="text-align:center;">Ponemos en marcha un proyecto de tu organización o personal en lo referente a todas sus dimensiones: legal, análisis e investigación, y comunicación. <hr style="border-top:solid 1px #ccc;" /> Ofrecemos herramientas altamente tecnológicas para​ el análisis y​ la comunicación de datos​ y redes, ​y la ​inmersión en una cultura de datos.</h3>
+<hr style="border-top:solid 1px #ccc" />
 
+### Ofrecemos herramientas altamente tecnológicas para​ el análisis y​ la comunicación de datos​ y redes, ​y la ​inmersión en una cultura de datos. {: style="text-align:center;"}
 
 | Dónde                                                                      | Horas                                       | Precio |
 |:---------------------------------------------------------------------------|:--------------------------------------------|:-------|
