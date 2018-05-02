@@ -15,20 +15,20 @@ El Programa **comienza e​l 5 de​ octubre y termina e​l 21 de​ diciembre*
 ​
 Ofrecemos herramientas altamente tecnológicas para​ el análisis y​ la comunicación de datos​ y redes, ​y la ​inmersión en una cultura de datos.
 
-​- Dónde: Sede de Deusto Business School en Madrid, c/ Castelló 76, 28006 Madrid 
+​- Dónde: Sede de Deusto Business School en Madrid, c/ Castelló 76, 28006 Madrid
 - Precio y horas:  €2.898 (21 ETCS, 88 horas presenciales + e-learning).
 
-[Información adicional](https://www.deusto.es/cs/Satellite/deusto/es/masteres/estudios-masteres/experto-en-analisis-investigacion-y-comunicacion-de-datos/programa){.button}
+[Información adicional](https://www.deusto.es/cs/Satellite/deusto/es/masteres/estudios-masteres/experto-en-analisis-investigacion-y-comunicacion-de-datos/programa){: .button}
 
-### Contacto: ​
+### Contacto
 
-**Secretaría General: **María Irazusta Astiazaran  
+**Secretaría General:** María Irazusta Astiazaran  
 Universidad de Deusto, Campus Donostia  
 Despacho 107 en la 1ª planta de Arrupe  
 T. +34 943 326 600 - Ext. 5263  
 Email: maria.irazusta@deusto.es
 
-**Dirección: **Miren Gutiérrez  
+**Dirección:** Miren Gutiérrez  
 Universidad de Deusto, Campus Donostia  
 Despacho 233 en la 2ª planta de Arrupe  
 T. +34 943 326 600 - Ext. 5132  
