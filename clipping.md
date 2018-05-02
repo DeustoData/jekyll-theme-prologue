@@ -3,7 +3,7 @@ title: Dicen de nosotr@s
 subtitle: Apariciones de DeustoDatacom en medios
 layout: "page"
 icon: fa-newspaper
-order: 3
+order: 4
 body-class: "clipping"
 ---
 
