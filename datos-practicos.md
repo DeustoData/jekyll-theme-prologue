@@ -11,31 +11,38 @@ Acaba de abrirse el plazo de solicitudes​ para el programa "Análisis, investi
 
 El Programa **comienza e​l 5 de​ octubre y termina e​l 21 de​ diciembre** (tres meses de duración), en régimen de viernes tarde (de 16 a 20) y sábado mañana (de 10 a 14).​ Durante la semana se hace seguimiento de personas y proyectos a través de nuestra plataforma de e-learning. Nos comprometemos a responder a cualquier duda en menos de 24 horas.​
 
-​## Ponemos en marcha un proyecto de tu organización o personal en lo referente a todas sus dimensiones: legal, análisis e investigación, y comunicación.
-​
-## Ofrecemos herramientas altamente tecnológicas para​ el análisis y​ la comunicación de datos​ y redes, ​y la ​inmersión en una cultura de datos.
+​<h3 style="text-align:center;"> Ponemos en marcha un proyecto de tu organización o personal en lo referente a todas sus dimensiones: legal, análisis e investigación, y comunicación. <hr style="border-top:solid 1px #ccc;" /> Ofrecemos herramientas altamente tecnológicas para​ el análisis y​ la comunicación de datos​ y redes, ​y la ​inmersión en una cultura de datos. </h3>
 
 | Dónde                                                                      | Horas                                       | Precio |
 |:---------------------------------------------------------------------------|:--------------------------------------------|:-------|
 | Sede de Deusto Business School en Madrid<br />c/ Castelló 76, 28006 Madrid | 21 ETCS, 88 horas presenciales + e-learning | €2.898 |
 
+<div style="text-align:center;">
+
 [Información adicional](https://www.deusto.es/cs/Satellite/deusto/es/masteres/estudios-masteres/experto-en-analisis-investigacion-y-comunicacion-de-datos/programa){: .button}
+
+</div>
 
 ### Contacto
 
-<div class="6u 12u$(small)">
+<div class="row">
+    <div class="6u 12u$(small)">
+
 **Secretaría General:** María Irazusta Astiazaran  
 Universidad de Deusto, Campus Donostia  
 Despacho 107 en la 1ª planta de Arrupe  
 T. +34 943 326 600 - Ext. 5263  
 Email: maria.irazusta@deusto.es
-</div>
 
-<div class="6u 12u$(small)">
+    </div>
+    <div class="6u 12u$(small)">
+
 **Dirección:** Miren Gutiérrez  
 Universidad de Deusto, Campus Donostia  
 Despacho 233 en la 2ª planta de Arrupe  
 T. +34 943 326 600 - Ext. 5132  
 M. +34 648 506580  
 Email: m.gutierrez@deusto.es
+
+    </div>
 </div>
