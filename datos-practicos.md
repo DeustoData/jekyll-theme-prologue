@@ -11,11 +11,13 @@ Acaba de abrirse el plazo de solicitudes​ para el programa "Análisis, investi
 
 El Programa **comienza e​l 5 de​ octubre y termina e​l 21 de​ diciembre** (tres meses de duración), en régimen de viernes tarde (de 16 a 20) y sábado mañana (de 10 a 14).​ Durante la semana se hace seguimiento de personas y proyectos a través de nuestra plataforma de e-learning. Nos comprometemos a responder a cualquier duda en menos de 24 horas.​
 
-### Ponemos en marcha un proyecto de tu organización o personal en lo referente a todas sus dimensiones: legal, análisis e investigación, y comunicación. {: style="text-align:center;"}
+### Ponemos en marcha un proyecto de tu organización o personal en lo referente a todas sus dimensiones: legal, análisis e investigación, y comunicación. 
 
 <hr style="border-top:solid 1px #ccc" />
 
-### Ofrecemos herramientas altamente tecnológicas para​ el análisis y​ la comunicación de datos​ y redes, ​y la ​inmersión en una cultura de datos. {: style="text-align:center;"}
+### Ofrecemos herramientas altamente tecnológicas para​ el análisis y​ la comunicación de datos​ y redes, ​y la ​inmersión en una cultura de datos. 
+
+<div style="height:3em;"></div>
 
 | Dónde                                                                      | Horas                                       | Precio |
 |:---------------------------------------------------------------------------|:--------------------------------------------|:-------|
@@ -35,8 +37,8 @@ El Programa **comienza e​l 5 de​ octubre y termina e​l 21 de​ diciembre*
         <strong>Secretaría General:</strong> María Irazusta Astiazaran  <br />
         Universidad de Deusto, Campus Donostia  <br />
         Despacho 107 en la 1ª planta de Arrupe  <br />
-        T. +34 943 326 600 - Ext. 5263  <br />
-        Email: maria.irazusta@deusto.es
+        <i class="fa fa-phone"></i> +34 943 326 600 - Ext. 5263  <br />
+        <i class="fa fa-envelope"></i> maria.irazusta@deusto.es
 
     </div>
     <div class="6u 12u$(small)">
@@ -44,9 +46,9 @@ El Programa **comienza e​l 5 de​ octubre y termina e​l 21 de​ diciembre*
         <strong>Dirección:</strong> Miren Gutiérrez  <br />
         Universidad de Deusto, Campus Donostia  <br />
         Despacho 233 en la 2ª planta de Arrupe  <br />
-        T. +34 943 326 600 - Ext. 5132  <br />
-        M. +34 648 506580  <br />
-        Email: m.gutierrez@deusto.es
+        <i class="fa fa-phone"></i> +34 943 326 600 - Ext. 5132  <br />
+        <i class="fa fa-mobile-alt"></i> +34 648 506580  <br />
+        <i class="fa fa-envelope"></i> m.gutierrez@deusto.es
 
     </div>
 </div>
