@@ -1,9 +1,9 @@
 ---
-title: Datos prácticos
-subtitle: del Programa Experto "Análisis, investigación y comunicación de datos"
+title: Información sobre el Programa
+subtitle: "Análisis, investigación y comunicación de datos"
 layout: "page"
 icon: fa-asterisk
-order: 2
+order: 1
 ---
 
 El único programa ​de análisis, visualización y comunicación de datos que esté exclusivamente dirigido a NGO, fundaciones, periodismo, sector público​ ​e investigación y enfocado a la comunicación de datos. ​
