@@ -1,5 +1,5 @@
 ---
-title: Información sobre el Programa
+title: Info sobre el Programa
 subtitle: "Análisis, investigación y comunicación de datos"
 layout: "page"
 icon: fa-asterisk
