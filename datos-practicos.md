@@ -8,6 +8,7 @@ order: 2
 
 <span class="image right item">
     <img src="{{ 'assets/images/info/deusto-datacom-mirengutierrez-alexrayon.jpg' | relative_url }}" alt="Miren Gutiérrez y Alex Rayón" />
+    
     <header>
         <h3>Miren Gutiérrez y Álex Rayón</h3>
     </header>
