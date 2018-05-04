@@ -6,7 +6,7 @@ icon: fa-asterisk
 order: 2
 ---
 
-<span class="image right item"><img src="{{ 'assets/images/info/deusto-datacom-mirengutierrez-alexrayon.jpg' | relative_url }}" alt="Miren Gutiérrez y Alex Rayón" /><header><h3>Miren Gutiérrez y Álex Rayón</h3></header></span>
+<span class="image right item"><img src="{{ 'assets/images/info/deusto-datacom-mirengutierrez-alexrayon.jpg' | relative_url }}" alt="Miren Gutiérrez y Alex Rayón" /><!--<header><h3>Miren Gutiérrez y Álex Rayón</h3></header>--></span>
 
 El único programa ​de análisis, visualización y comunicación de datos que esté exclusivamente dirigido a NGO, fundaciones, periodismo, sector público​ ​e investigación y enfocado a la comunicación de datos. ​
 Acaba de abrirse el plazo de solicitudes​ para el programa "Análisis, investigación y comunicación de datos"​ **hasta final de mes​ de mayo**.​
@@ -57,7 +57,7 @@ El Programa **comienza e​l 5 de​ octubre y termina e​l 21 de​ diciembre*
 <div class="row">
     <div class="6u 6u$(mobile)">
         <div class="item">
-            <iframe class="image fit" src="https://www.youtube.com/embed/dfMGNQ4FLA0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            <iframe class="image fit" style="min-height:200px;"  src="https://www.youtube.com/embed/dfMGNQ4FLA0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             <header>
                 <h3>Conferencia "Datos para la transformación social"</h3>
             </header>
@@ -66,7 +66,7 @@ El Programa **comienza e​l 5 de​ octubre y termina e​l 21 de​ diciembre*
 
     <div class="6u$ 6u$(mobile)">
         <div class="item">
-            <iframe class="image fit" src="https://www.youtube.com/embed/WDMDJo6gAQM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            <iframe class="image fit" style="min-height:200px;" src="https://www.youtube.com/embed/WDMDJo6gAQM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             <header>
                 <h3>Por qué cursar este programa</h3>
             </header>
