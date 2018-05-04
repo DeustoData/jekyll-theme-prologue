@@ -17,6 +17,18 @@ El Programa **comienza e​l 5 de​ octubre y termina e​l 21 de​ diciembre*
 
 ### Ofrecemos herramientas altamente tecnológicas para​ el análisis y​ la comunicación de datos​ y redes, ​y la ​inmersión en una cultura de datos. 
 
+<div class="row">
+    <div class="4u 12u$(mobile)">
+        <img class="item image fit" src="{{ 'assets/images/info/deusto-datacom-albertocairo.jpg' | relative_url }}" alt="Alberto Cairo" />
+    </div>  
+    <div class="4u 12u$(mobile)">
+        <img  class="item image fit"src="{{ 'assets/images/info/deusto-datacom-alorza.jpg' | relative_url }}" alt="Alberto Ortiz de Zárate" />
+    </div>
+    <div class="4u$ 12u$(mobile)">
+        <img class="item image fit" src="{{ 'assets/images/info/deusto-datacom-mirengutierrez-alexrayon.jpg' | relative_url }}" alt="Miren Gutiérrez y Alex Rayón" />
+    </div>
+  </div>
+
 <div style="height:3em;"></div>
 
 | Dónde                                                                      | Horas                                       | Precio |
