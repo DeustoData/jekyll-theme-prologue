@@ -20,35 +20,59 @@ El Programa **comienza e​l 5 de​ octubre y termina e​l 21 de​ diciembre*
 ### Ofrecemos herramientas altamente tecnológicas para​ el análisis y​ la comunicación de datos​ y redes, ​y la ​inmersión en una cultura de datos. 
 
 <div class="row">
-    <div class="6u (mobile)">
+    <div class="4u 12u$(mobile)">
         <div class="item">
             <img class="image fit" src="{{ 'assets/images/info/deusto-datacom-albertocairo.jpg' | relative_url }}" alt="Alberto Cairo" />
             <header>
                 <h3>Alberto Cairo</h3>
             </header>
         </div>
-        <div class="item">
-            <img class="image fit" src="{{ 'assets/images/info/deusto-datacom-alorza-ggalmazor-ketari.jpg' | relative_url }}" alt="Alberto Cairo" />
-            <header>
-                <h3>A. Ortiz de Zárate, Guillermo Gutiérrez y David González</h3>
-            </header>
-        </div>
     </div>  
-    <div class="6u$ (mobile)">
+
+    <div class="4u 12u$(mobile)">
         <div class="item">
             <img  class="image fit" src="{{ 'assets/images/info/deusto-datacom-alorza.jpg' | relative_url }}" alt="Alberto Ortiz de Zárate" />
             <header>
                 <h3>Alberto Ortiz de Zárate</h3>
             </header>
         </div>
+    </div>
+
+    <div class="4u$ 12u$(mobile)">
         <div class="item">
+            <img class="image fit" src="{{ 'assets/images/info/deusto-datacom-alorza-ggalmazor-ketari.jpg' | relative_url }}" alt="Alberto Cairo" />
+            <header>
+                <h3>A. Ortiz de Zárate, Guillermo Gutiérrez y David González</h3>
+            </header>
+        </div>
+ <!--       <div class="item">
             <img class="image fit" src="{{ 'assets/images/info/deusto-datacom-comida.jpg' | relative_url }}" alt="Alberto Cairo" />
             <header>
                 <h3>Las oportunidades de networking son casi tan interesantes como las clases</h3>
             </header>
-        </div>
+        </div> -->
     </div>
   </div>
+
+<div class="row">
+    <div class="6u 6u$(mobile)">
+        <div class="item">
+            <iframe class="image fit" src="https://www.youtube.com/embed/dfMGNQ4FLA0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            <header>
+                <h3>Conferencia "Datos para la transformación social"</h3>
+            </header>
+        </div>
+    </div>
+
+    <div class="6u$ 6u$(mobile)">
+        <div class="item">
+            <iframe class="image fit" src="https://www.youtube.com/embed/WDMDJo6gAQM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            <header>
+                <h3>Por qué cursar este programa</h3>
+            </header>
+        </div>
+    </div>
+</div>
 
 <div style="height:3em;"></div>
 
