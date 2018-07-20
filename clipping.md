@@ -30,6 +30,14 @@ body-class: "clipping"
 
 <!-- 
 
+http://cadenaser.com/emisora/2016/09/30/radio_bilbao/1475232847_442984.html
+
+https://www.irekia.euskadi.eus/es/news/40091-los-cursos-verano-upv-ehu-profundizan-las-distintas-experiencias-materia-gobierno-abierto (img adjuntas en mail 5/5/18)
+
+https://www.elindependiente.com/economia/2018/05/04/analista-datos-se-buscan-gurus-y-se-paga-muy-bien/
+
+https://www.irekia.euskadi.eus/es/web_tv/10325-atakak-dialogos-para-abrir-gobiernos?criterio_id=1009869&track=1
+
 Búsqueda de nivel de servicio
 http://www.imfarmacias.es/uploads/2017/09/busqueda_nivel_servicio_13336_20170908120545.pdf
 
